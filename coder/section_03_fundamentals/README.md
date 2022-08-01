@@ -6,3 +6,9 @@ cd exercises
 mkdir src
 mkdir bin
 ```
+
+# First Program
+
+- Create a class
+
+- Create a package from that class

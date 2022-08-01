@@ -1,0 +1,2895 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rou",
+				"routes.js"
+			],
+			[
+				"lea",
+				"learning-sql/"
+			],
+			[
+				"getGr",
+				"getGradeFromStudent"
+			],
+			[
+				"initi",
+				"initialIndex"
+			],
+			[
+				"strt",
+				"startIncludedIndex"
+			],
+			[
+				"paym",
+				"paymentsArray"
+			],
+			[
+				"in",
+				"invalid_json"
+			],
+			[
+				"video",
+				"videoClass03"
+			],
+			[
+				"child0",
+				"child02"
+			],
+			[
+				"acce",
+				"accelerateMore"
+			],
+			[
+				"max",
+				"maxSpeed"
+			],
+			[
+				"toM",
+				"toMergeObject02"
+			],
+			[
+				"to",
+				"toMergeObject01"
+			],
+			[
+				"oper",
+				"operationToPerform"
+			],
+			[
+				"ope",
+				"operationToPerform"
+			],
+			[
+				"su",
+				"sum"
+			],
+			[
+				"arr",
+				"arrLowGradesUsingCallback03"
+			],
+			[
+				"pre",
+				"printResult"
+			],
+			[
+				"arro",
+				"arrowDouble"
+			],
+			[
+				"iter",
+				"iterateOverTransactions"
+			],
+			[
+				"sequelize",
+				"sequelize-auto"
+			],
+			[
+				"auto",
+				"sequelize-auto"
+			],
+			[
+				"no",
+				"node_modules/"
+			],
+			[
+				"mul",
+				"multiplication"
+			],
+			[
+				"sort",
+				"sortable_app.class"
+			],
+			[
+				"pe",
+				"person2"
+			],
+			[
+				"uer",
+				"username"
+			],
+			[
+				"deve",
+				"develoer_02"
+			],
+			[
+				"Bi",
+				"Bird"
+			],
+			[
+				"grooc",
+				"groovyc"
+			],
+			[
+				"matrix",
+				"MATRIX"
+			],
+			[
+				"Y",
+				"Y_MATRIX"
+			],
+			[
+				"matr",
+				"matrix_b"
+			],
+			[
+				"mat",
+				"matrixes"
+			],
+			[
+				"Ma",
+				"matrix_coef"
+			],
+			[
+				"matri",
+				"matrix_coef"
+			],
+			[
+				"M",
+				"Y_MATRIX_2"
+			],
+			[
+				"MAT",
+				"MATRIX_2"
+			],
+			[
+				"MATRIX",
+				"Y_MATRIX_2"
+			],
+			[
+				"MA",
+				"Y_MATRIX"
+			],
+			[
+				"T",
+				"type"
+			],
+			[
+				"n_",
+				"n_coefs_zero"
+			],
+			[
+				"n",
+				"n_iterations"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"y_",
+				"y_matrix_aux"
+			],
+			[
+				"i_",
+				"i_line"
+			],
+			[
+				"i",
+				"i_piv"
+			],
+			[
+				"pivot",
+				"pivot_aux"
+			],
+			[
+				"line",
+				"line_0"
+			],
+			[
+				"coef",
+				"coef_0"
+			],
+			[
+				"ma",
+				"matrix_with_multiplicators"
+			],
+			[
+				"column",
+				"column_1"
+			],
+			[
+				"colu",
+				"column_1"
+			],
+			[
+				"li",
+				"line_multiplicators"
+			],
+			[
+				"deter",
+				"determinants"
+			],
+			[
+				"de",
+				"determinants"
+			],
+			[
+				"DE",
+				"DETERMINANT"
+			],
+			[
+				"x",
+				"li_x"
+			],
+			[
+				"calc",
+				"calc_truncate"
+			],
+			[
+				"y",
+				"y_matrix"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"secon",
+				"seconday_diagonal"
+			],
+			[
+				"pr",
+				"prod"
+			],
+			[
+				"SE",
+				"seconday_diagonal"
+			],
+			[
+				"dE",
+				"defs\tMethod"
+			],
+			[
+				"s",
+				"signal"
+			],
+			[
+				"elem",
+				"elems"
+			],
+			[
+				"link",
+				"links2"
+			],
+			[
+				"mi",
+				"matrix_aux"
+			],
+			[
+				"fr",
+				"format"
+			],
+			[
+				"det",
+				"determinant_recursive"
+			],
+			[
+				"d1",
+				"d1_x0"
+			],
+			[
+				"r",
+				"ROOT"
+			],
+			[
+				"ST",
+				"STOP_CONDITION"
+			],
+			[
+				"brek",
+				"break_point"
+			],
+			[
+				"bol",
+				"BOLZANO"
+			],
+			[
+				"stop",
+				"STOP_CONDITION"
+			],
+			[
+				"ER",
+				"ERROR_THRESHOLD"
+			],
+			[
+				"St",
+				"STOP_CONDITION"
+			],
+			[
+				"f",
+				"f_b"
+			],
+			[
+				"cacl",
+				"calc_function"
+			],
+			[
+				"calc_",
+				"calc_function"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"erro",
+				"error_array"
+			],
+			[
+				"bre",
+				"break_point"
+			],
+			[
+				"ca",
+				"calc_function"
+			],
+			[
+				"N",
+				"N_MAX_ITERATIONS"
+			],
+			[
+				"cal",
+				"calc_function"
+			],
+			[
+				"cl",
+				"calc_truncate"
+			],
+			[
+				"n_fo",
+				"N_FLOATING_POINTS"
+			],
+			[
+				"tr",
+				"truncated_a"
+			],
+			[
+				"trunca",
+				"truncated_b"
+			],
+			[
+				"PDF",
+				"PDFParser"
+			],
+			[
+				"mo",
+				"model_name"
+			],
+			[
+				"Pth",
+				"PATH"
+			],
+			[
+				"model",
+				"model_file"
+			],
+			[
+				"PATH",
+				"PATH_EXAMPLES"
+			],
+			[
+				"Exam",
+				"PATH_EXAMPLES"
+			],
+			[
+				"path",
+				"PATH_TO_EXPORT_JSON_CONFIG"
+			],
+			[
+				"P",
+				"PATH_TO_MODEL"
+			],
+			[
+				"PA",
+				"PATH_TO_MODEL"
+			],
+			[
+				"button",
+				"button_list_item"
+			],
+			[
+				"Exe",
+				"ExecuteSimulation"
+			],
+			[
+				"json",
+				"json_file"
+			],
+			[
+				"js",
+				"json_file"
+			],
+			[
+				"data",
+				"data_temp"
+			],
+			[
+				"da",
+				"data_temp"
+			],
+			[
+				"clas",
+				"classmethod"
+			],
+			[
+				"arry",
+				"array_pacients"
+			],
+			[
+				"_",
+				"_debug"
+			],
+			[
+				"cla",
+				"classproperty"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"dat",
+				"dataframe_with_valid_values"
+			],
+			[
+				"array",
+				"array_pacients"
+			],
+			[
+				"lis",
+				"lista_pacientes"
+			],
+			[
+				"co",
+				"collumns"
+			],
+			[
+				"dta",
+				"dataframe_with_valid_values"
+			],
+			[
+				"Ac",
+				"ActionSetList"
+			],
+			[
+				"but",
+				"button_list_item"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"bu",
+				"button_list_item"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"pa",
+				"parameters"
+			],
+			[
+				"m",
+				"methods"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"jso",
+				"jsonify"
+			],
+			[
+				"par",
+				"parameters"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "coder/section_03_fundamentals/README.md",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " Creating"
+					},
+					"CQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAkAAAAAAAAACQAAAAAAAAABAAAAZwgAAAAAAAAACAAAAAAAAAABAAAAbgcAAAAAAAAABwAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " project"
+					},
+					"CAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "mkdir"
+					},
+					"BQAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " exe"
+					},
+					"BAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAABQAAAAAAAAAFAAAAAAAAAAJAAAAbWtkaXIgZXhl",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAUAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					18,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAABQAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "````"
+					},
+					"BAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABgAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAABkAAAAAAAAAGQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "bash"
+					},
+					"BAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAP///////+9/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "\nexer"
+					},
+					"BQAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "mkdir"
+					},
+					"BgAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdAAAAAAAAAAQAAABleGVyHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " exercis"
+					},
+					"CAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "es"
+					},
+					"AgAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\nce"
+					},
+					"AwAAACsAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC0AAAAAAAAALQAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "cd"
+					},
+					"AgAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					2,
+					"left_delete",
+					null,
+					"AgAAAC4AAAAAAAAALgAAAAAAAAABAAAAZC0AAAAAAAAALQAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " exercive"
+					},
+					"CQAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					4,
+					"left_delete",
+					null,
+					"BAAAADcAAAAAAAAANwAAAAAAAAABAAAAczYAAAAAAAAANgAAAAAAAAABAAAAZTUAAAAAAAAANQAAAAAAAAABAAAAdjQAAAAAAAAANAAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "ises"
+					},
+					"BAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "\nmkdir"
+					},
+					"BgAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					5,
+					"left_delete",
+					null,
+					"BQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAID0AAAAAAAAAPQAAAAAAAAABAAAAcjwAAAAAAAAAPAAAAAAAAAABAAAAaTsAAAAAAAAAOwAAAAAAAAABAAAAZDoAAAAAAAAAOgAAAAAAAAABAAAAaw",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAADoAAAAAAAAAOwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"left_delete",
+					null,
+					"AQAAADoAAAAAAAAAOgAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "kdir"
+					},
+					"BAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": " bin"
+					},
+					"BAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "\nmkdir"
+					},
+					"BgAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " src"
+					},
+					"BAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"swap_line_up",
+					null,
+					"AgAAAEMAAAAAAAAAQwAAAAAAAAAKAAAAbWtkaXIgc3JjCjkAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "\n\n#"
+					},
+					"AwAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": " First"
+					},
+					"BgAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": " POr"
+					},
+					"BAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFwAAAAAAAAAXAAAAAAAAAABAAAAclsAAAAAAAAAWwAAAAAAAAABAAAATw",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "rogram"
+					},
+					"BgAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": " Crearte"
+					},
+					"CAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					3,
+					"left_delete",
+					null,
+					"AwAAAGsAAAAAAAAAawAAAAAAAAABAAAAZWoAAAAAAAAAagAAAAAAAAABAAAAdGkAAAAAAAAAaQAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": " class"
+					},
+					"BgAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAABvAAAAAAAAAAAAAABvAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "\n-"
+					},
+					"AgAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": " Creart"
+					},
+					"BwAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHsAAAAAAAAAewAAAAAAAAABAAAAdHoAAAAAAAAAegAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "rte"
+					},
+					"AwAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHwAAAAAAAAAfAAAAAAAAAABAAAAZXsAAAAAAAAAewAAAAAAAAABAAAAdHoAAAAAAAAAegAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": " package"
+					},
+					"CAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAAfwAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIEAAAAAAAAAAAAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": " from"
+					},
+					"BQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": " te"
+					},
+					"AwAAAIsAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAACNAAAAAAAAAI4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAI4AAAAAAAAAjwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					2,
+					"left_delete",
+					null,
+					"AgAAAI4AAAAAAAAAjgAAAAAAAAABAAAAII0AAAAAAAAAjQAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "hat"
+					},
+					"AwAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAACPAAAAAAAAAJAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": " class"
+					},
+					"BgAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAYHdA"
+				]
+			]
+		},
+		{
+			"file": "coder/section_03_fundamentals/01_first_program/src/fundamentals/FirstProgram.java",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "package"
+					},
+					"BwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " fir"
+					},
+					"BAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAoAAAAAAAAACgAAAAAAAAABAAAAcgkAAAAAAAAACQAAAAAAAAABAAAAaQgAAAAAAAAACAAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "fundamentsl"
+					},
+					"CwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					2,
+					"left_delete",
+					null,
+					"AgAAABIAAAAAAAAAEgAAAAAAAAABAAAAbBEAAAAAAAAAEQAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "als;"
+					},
+					"BAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\nc"
+					},
+					"BAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "lass"
+					},
+					"BAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "public"
+					},
+					"BwAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZAAAAAAAAAAUAAABjbGFzcxkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAYAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " class"
+					},
+					"BgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " Firs"
+					},
+					"BQAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "tProgr"
+					},
+					"BgAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "am"
+					},
+					"AgAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADEAAAAAAAAAMwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAP///////+9/"
+				],
+				[
+					20,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAADQAAAAAAAAANgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\npubnli"
+					},
+					"CQAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA2AAAAAAAAADYAAAAAAAAAAQAAAAk4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					3,
+					"left_delete",
+					null,
+					"AwAAAD0AAAAAAAAAPQAAAAAAAAABAAAAaTwAAAAAAAAAPAAAAAAAAAABAAAAbDsAAAAAAAAAOwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "lic"
+					},
+					"AwAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " static"
+					},
+					"BwAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " void"
+					},
+					"BQAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " main"
+					},
+					"BQAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAE8AAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "String"
+					},
+					"BgAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAFYAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFcAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcAAAAAAAAAVwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "args"
+					},
+					"BAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAP///////+9/"
+				],
+				[
+					36,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAF4AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcAAAAAAAAAVwAAAAAAAAAEAAAAYXJncw",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " args"
+					},
+					"BQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAAEAAAAJYQAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABmAAAAAAAAAAAAAABhAAAAAAAAAGEAAAAAAAAAAgAAAAkJ",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "psvm"
+					},
+					"BAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGQAAAAAAAAAZAAAAAAAAAAEAAAAcHN2bQ",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABkAAAAAAAAAAAAAAAAAFZA"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGEAAAAAAAAAYQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BwAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGQAAAAAAAAAZAAAAAAAAAACAAAACQljAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZgAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAAIAAAAJCQ",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAP///////+9/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "Sts"
+					},
+					"AwAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGYAAAAAAAAAZgAAAAAAAAABAAAAc2UAAAAAAAAAZQAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "ystem.out"
+					},
+					"CQAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": ".print"
+					},
+					"BgAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAABzAAAAAAAAAHQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgAAAAAAAABuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "ln"
+					},
+					"AgAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAAB2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHYAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "?"
+					},
+					"AQAAAHcAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAHgAAAAAAAAAegAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAHgAAAAAAAAAeAAAAAAAAAABAAAAIngAAAAAAAAAeAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAeQAAAAAAAAB5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHcAAAAAAAAAdwAAAAAAAAABAAAAPw",
+					"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAHcAAAAAAAAAeQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "Hello"
+					},
+					"BQAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": " World"
+					},
+					"BgAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "!!!"
+					},
+					"AwAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAIgAAAAAAAAAiQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAP///////+9/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Console",
+					""
+				],
+				[
+					"Console",
+					"Nodemon"
+				],
+				[
+					"Console",
+					"Node"
+				],
+				[
+					"Terminal",
+					""
+				],
+				[
+					"Terminal",
+					"Node"
+				],
+				[
+					"Terminal",
+					"Nodemon"
+				]
+			],
+			[
+				"Terminal",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Console",
+					""
+				],
+				[
+					"Console",
+					"Nodemon"
+				],
+				[
+					"Console",
+					"Node"
+				],
+				[
+					"Terminal",
+					""
+				],
+				[
+					"Terminal",
+					"Node"
+				],
+				[
+					"Terminal",
+					"Nodemon"
+				],
+				[
+					"Packages/ESLint/ESLint.sublime-build",
+					""
+				]
+			],
+			[
+				"Terminal",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Console",
+					""
+				],
+				[
+					"Console",
+					"Nodemon"
+				],
+				[
+					"Console",
+					"Node"
+				],
+				[
+					"Terminal",
+					""
+				],
+				[
+					"Terminal",
+					"Node"
+				],
+				[
+					"Terminal",
+					"Nodemon"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Terminal",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"togg m",
+				"View: Toggle Menu"
+			],
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ipa",
+				"Package Control: Install Package"
+			],
+			[
+				"title",
+				"Terminus: Rename Title"
+			],
+			[
+				"to gmen",
+				"View: Toggle Menu"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"toggl",
+				"View: Toggle Tabs"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"togl tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"re tit",
+				"Terminus: Rename Title"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"high",
+				"Highlighter: Toggle Highlighter"
+			],
+			[
+				"rpack",
+				"Package Control: Remove Package"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"open t termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"move ",
+				"File: Move"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"trai",
+				"Trim Trailing White Space"
+			],
+			[
+				"sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"D",
+				"File: Duplicate"
+			],
+			[
+				"re fi",
+				"File: Rename"
+			],
+			[
+				"theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"sele colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sele col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"DUPLI",
+				"File: Duplicate"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"change ",
+				"Help: Changelog"
+			],
+			[
+				"trail",
+				"Trim Trailing White Space"
+			],
+			[
+				"rena ",
+				"Rename File"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cre new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"cop",
+				"File: Copy Name"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"co file ",
+				"File: Copy Name"
+			],
+			[
+				"terminal",
+				"Build With: Terminal"
+			],
+			[
+				"copy n",
+				"File: Copy Name"
+			],
+			[
+				"copy ",
+				"File: Copy Name"
+			],
+			[
+				"ano",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"renA",
+				"Rename File"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"open ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Snippet: list-disabled"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"tog me",
+				"View: Toggle Menu"
+			],
+			[
+				"dis ",
+				"Snippet: disabled"
+			],
+			[
+				"disable subli",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disable auto",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"snip disa",
+				"Snippet: disabled"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"edi pro",
+				"Project: Edit Project"
+			],
+			[
+				"tog ",
+				"View: Toggle Tabs"
+			],
+			[
+				"termi he",
+				"Terminus: List Shells"
+			],
+			[
+				"open til tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"tog m",
+				"View: Toggle Menu"
+			],
+			[
+				"edi pto",
+				"Project: Edit Project"
+			],
+			[
+				"RT",
+				"Terminus: Rename Title"
+			],
+			[
+				"RE TI",
+				"Terminus: Rename Title"
+			],
+			[
+				"rt",
+				"Terminus: Rename Title"
+			],
+			[
+				"togg ",
+				"View: Toggle Menu"
+			],
+			[
+				"tog men",
+				"View: Toggle Menu"
+			],
+			[
+				"war",
+				"Wrap at Ruler"
+			],
+			[
+				"wrap",
+				"Wrap at Ruler"
+			],
+			[
+				"toggl mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"livr",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"rena fil",
+				"File: Rename"
+			],
+			[
+				"revel",
+				"File: Reveal"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new f",
+				"ANF: New File"
+			],
+			[
+				"cop na",
+				"File: Copy Name"
+			],
+			[
+				"live",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"html pre",
+				"Markdown HTML Preview"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"co nam",
+				"File: Copy Name"
+			],
+			[
+				"togle fil",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"file name",
+				"File: Copy Name"
+			],
+			[
+				"lcoa",
+				"File: Locate"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"consol cle",
+				"Build With: Console - Groovy"
+			],
+			[
+				"to me",
+				"View: Toggle Menu"
+			],
+			[
+				"togg me",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminus: Rename Title"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"view: ",
+				"View: Toggle Menu"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"REMOV",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Shutdown IPython Notebook Kernel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"ter",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminus tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Termi",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"Insta",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"atom",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"dir",
+			"exit()",
+			"python",
+			"print()",
+			"print",
+			"clear",
+			"print('hello')",
+			"dir",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bruno/Documents/dev/learning-java",
+		"/home/bruno/Documents/dev/learning-java/coder",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/01_first_program",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/01_first_program/src",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/01_first_program/src/fundamentals"
+	],
+	"file_history":
+	[
+		"/home/bruno/Documents/dev/learning-git/git.sh",
+		"/home/bruno/Documents/dev/learning-java/section_02_setup/README.md",
+		"/home/bruno/Documents/dev/learning-java/README.md",
+		"/home/bruno/Documents/dev/learning-quarkus/projects/social/quarkus-social/src/main/resources/application.properties",
+		"/home/bruno/Documents/dev/learning-quarkus/projects/social/quarkus-social/pom.xml",
+		"/home/bruno/Documents/dev/learning-quarkus/projects/social/README.md",
+		"/home/bruno/Documents/dev/learning-quarkus/projects/social/quarkus-social/src/main/java/io/github/brunoconde07/quarkussocial/dto/CreateUserRequest.java",
+		"/home/bruno/Documents/dev/learning-quarkus/projects/social/quarkus-social/src/main/java/io/github/brunoconde07/quarkussocial/UserResource.java",
+		"/home/bruno/Documents/dev/learning-quarkus/README.md",
+		"/home/bruno/Documents/dev/learning-sql/README.md",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_35_base_project_backend/index.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_35_base_project_backend/api/user.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_35_base_project_backend/config/routes.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_35_base_project_backend/package.json",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_35_base_project_backend/README.md",
+		"/home/bruno/Documents/dev/learning-nodejs/learning_nodejs.sublime-project",
+		"/home/bruno/Documents/dev/learning-nosql/mongodb/install_mongodb.sh",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_34_express/README.md",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_34_express/index.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_34_express/api/product.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_34_express/api/user.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_34_express/greetingMid.js",
+		"/home/bruno/Documents/dev/learning-nodejs/web_moderno_coder/section_34_express/package.json",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/09_concat/concat03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/09_concat/concat02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/09_concat/concat01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/08_imperative_vs_declarative/imperativeVsDeclarative01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/README.md",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/07_reduce/reduce05.js",
+		"/home/bruno/Documents/dev/learning-javascript/.prettierrc",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/07_reduce/reduce03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/07_reduce/reduce04.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/07_reduce/reduce02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/05_map/map04.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/06_filter/filter03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/05_map/map03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/06_filter/filter04.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/07_reduce/reduce01.js",
+		"/home/bruno/Documents/dev/learning-javascript/learning-javascript.sublime-project",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/06_filter/filter02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/06_filter/filter01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/05_map/map02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/05_map/map01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/04_forEach/forEach01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/04_forEach/forEach02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/04_forEach/forEach03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/07_object_functions/objectFunctions04DefineProperty.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/07_object_functions/objectFunctions05Assign.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/README.md",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/03_simulating_array_with_object/simulatingArrayWithObject02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/03_simulating_array_with_object/simulatingArrayWithObject01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/simulatingArrayWithObject.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/02_important_methods/importantMethods02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/02_important_methods/importantMethods01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/01_review/review05.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/01_review/review06.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/01_review/review04.js",
+		"/home/bruno/Documents/dev/learning-javascript/LICENSE",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/01_review/review03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/16_classes/classes02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/01_review/review02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_08_array/01_review/review01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/16_classes/classes01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/15_JSON_vs_object/JSONvsObject01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/15_JSON_vs_object/JSONvsObject02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/15_JSON_vs_object/JSONvsObject03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/14_avoiding_modifications/avoidModifications01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/14_avoiding_modifications/avoidModifications02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/14_avoiding_modifications/avoidModifications03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/13_inheritance_new/inheritanceNew02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/13_inheritance_new/inheritanceNew01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/12_inheritance_typeof/inheritanceTypeof01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/11_inheritance_function/inheritanceFunction01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/10_inheritance_forIn/inheritanceForIn01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/09_inheritance_prototype_chain/inheritancePrototypeChain03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/09_inheritance_prototype_chain/inheritancePrototypeChain02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/09_inheritance_prototype_chain/inheritancePrototypeChain01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/08_inheritance_prototype/inheritancePrototype01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/08_inheritance_prototype/inheritancePrototype02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/07_object_functions/objectFunctions03Entries.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/07_object_functions/objectFunctions02Values.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/07_object_functions/objectFunctions01Keys.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_object/07_object_functions/objectFunctions02Entries.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/README.md",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_07_oop/01_object_review/object_review.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/19_exercises/exercise_01/exercise_01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/18_comparison_between_string_of_numbers/comparisonBetweenStringOfNumbers.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/17_call_and_apply/callAndApply.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/16_IIFE/IIFE01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/16_IIFE/IIFE02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/16_IIFE/IIFE03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/16_IIFE/IIFE.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/16_auto_called_functions/autoCalledFunctions.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/14_factory_functions/factoryFunctions_02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/14_factory_functions/factoryFunctions_01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/13_closures/01_closure.js.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/12_lexical_context/02_lexicalContext.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/12_lexical_context/01_lexicalContext.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/11_ways_to_declare_functions/01_waysToDeclareFunctions.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/11_ways_to_declare_functions/02_waysToDeclareFunctions.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/09_callback_functions/callback_functions_03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/10_constructor_functions/contructorFunciton.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/09_callback_functions/callback_functions_02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/09_callback_functions/callback_functions_01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/08_anonymous_function/anonymous_function_02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/08_anonymous_function/anonymous_function_01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/07_arrow_function/arrow_function_04.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/07_arrow_function/arrow_function_05.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/07_arrow_function/arrow_function_03.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/07_arrow_function/arrow_function_01.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/07_arrow_function/arrow_function_02.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/06_this_and_the_bind_function/02_this_and_bind_function.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/06_this_and_the_bind_function/03_this_and_bind_function.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/06_this_and_the_bind_function/04_this_and_bind_function.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/06_this_and_the_bind_function/05_this_and_bind_function.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/06_this_and_the_bind_function/01_this_and_bind_function.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/06_this_and_the_bind_function/this_and_bind_function.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/04_default_parameter/defaultParameter.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/05_this_can_vary/thisCanVary.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/03_variable_parameters/variableParameters.js",
+		"/home/bruno/Documents/dev/learning-javascript/.gitignore",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/02_parameter_and_return_are_optional/parameter_and_return_are_optional.js",
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/function_01.js",
+		"/home/bruno/workspace/sysdata/sysgw-node/async_loop/test_01.js",
+		"/home/bruno/workspace/sysdata/sysgw-node/setup.md"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 247.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"restore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "coder/section_03_fundamentals/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"lsp_uri": "file:///home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/README.md",
+							"rainbow_checked": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "coder/section_03_fundamentals/01_first_program/src/fundamentals/FirstProgram.java",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										140,
+										141
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										95,
+										96
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"lsp_uri": "file:///home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/01_first_program/src/fundamentals/FirstProgram.java",
+							"open_with_edit": true,
+							"rainbow_checked": true,
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 141.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Terminus":
+	{
+		"height": 188.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 152.0
+	},
+	"output.diagnostics":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learning-java.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"create",
+				"projects/social/quarkus-social/src/main/java/io/github/brunoconde07/quarkussocial/dto/CreateUserRequest.java"
+			],
+			[
+				"pom",
+				"projects/social/quarkus-social/pom.xml"
+			],
+			[
+				"appl",
+				"projects/social/quarkus-social/src/main/resources/application.properties"
+			],
+			[
+				"index",
+				"learning-nodejs/web_moderno_coder/section_35_base_project_backend/index.js"
+			],
+			[
+				"packa",
+				"learning-nodejs/web_moderno_coder/section_34_express/package.json"
+			],
+			[
+				"READE",
+				"learning-javascript/coder/section_06_function/README.md"
+			],
+			[
+				".md",
+				"sysgw-node/setup.md"
+			],
+			[
+				".en",
+				"sysgw-node/.env"
+			],
+			[
+				"setu",
+				"sysgw-node/setup.md"
+			],
+			[
+				"rea",
+				"learning-sequelize/alura/orm_with_node_sequelize_and_mysql/README.md"
+			],
+			[
+				"read getti",
+				"learning-groovy/udemy/01_the_complete_apache_groovy_developer_course/02_getting_started/README.md"
+			],
+			[
+				"ass sh",
+				"learning-groovy/udemy/01_the_complete_apache_groovy_developer_course/03_basics/04_assertions/assertions.sh"
+			],
+			[
+				"subli",
+				"learning-groovy/learning-groovy.sublime-project"
+			],
+			[
+				"subli pro",
+				"learning-groovy/learning-groovy.sublime-project"
+			],
+			[
+				"hello",
+				"learning-groovy/udemy/01_the_complete_apache_groovy_developer_course/02_getting_started/14_groovyc/Hello.groovy"
+			],
+			[
+				"",
+				"learning-groovy/udemy/01_the_complete_apache_groovy_developer_course/02_getting_started/14_groovyc/Hello.groovy"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 600.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/dev/learning-groovy/learning-groovy.sublime-project"
+			]
+		],
+		"width": 456.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
