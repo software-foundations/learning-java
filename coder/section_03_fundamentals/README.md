@@ -105,3 +105,5 @@ public class firstProgram {
 	}
 }
 ```
+
+# Variables and constants
