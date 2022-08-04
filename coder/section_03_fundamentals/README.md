@@ -106,4 +106,22 @@ public class firstProgram {
 }
 ```
 
-# Variables and constants
+# Variables and constants - challenge (temperature)
+
+- Since java 9 we have a java interpreter on terminal
+
+- <code>5/9</code> results in 0 (integer) 'cause both are integers
+
+- The code bellow results in 0.5555555555555556 (float) 'cause there's a float
+
+```java
+5.0/9
+
+5/9.0
+```
+
+```bash
+jshell
+
+/exit
+```
