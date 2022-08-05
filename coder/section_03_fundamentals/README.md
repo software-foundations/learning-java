@@ -125,3 +125,24 @@ jshell
 
 /exit
 ```
+
+# Type Inference
+
+- Infer the variable type by the type of value assigned
+
+- We cannot declare a variable using <code>var myVar;</code>
+
+- Declarations without assignment must have a type
+
+- Then, we can only use <code>var</code> in declaration followed by assignment
+
+- We can assign again to this variable
+
+- Variables can only be assigned to the type it is declared or it is first infered
+
+- Remember that in java, the variables has strong types
+
+```java
+var a = 10;
+```
+- Obs: a float variable can receive a int, but the contrary is false
