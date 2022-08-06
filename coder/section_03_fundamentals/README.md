@@ -210,3 +210,11 @@ Boolean	(true or false)
 ```
 
 - Primitive Types do not have Dot Operator
+
+# Import
+
+- Import packages that aren't available by default
+
+- The <code>java.lang</code> package is available by default in all classes
+
+- Then, isn't necessary <code>import java.lang</code> package to use it
