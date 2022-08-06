@@ -17,6 +17,7 @@ mkdir bin
 
 ```bash
 javac MyClass.java
+javac MyClass.java -d packageName.MainClassName
 java MyClass
 ```
 
@@ -197,3 +198,15 @@ double b = 3.1	// Float
 Char 	(One character wrapped by single quotes)
 Boolean	(true or false)
 ```
+
+# Dot Notation
+
+- Is used to access atributes and methods of ...
+
+```
+- variable
+- objects
+- or even in values (literals) which are not storaged in any variable
+```
+
+- Primitive Types do not have Dot Operator
