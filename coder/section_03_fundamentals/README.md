@@ -167,17 +167,29 @@ Float	(4 Unsigned Bytes)
 Double	(8 Unsigned Bytes)
 ```
 
+```java
+// We can separate using undelines
+
+// L indicate that it is a Long
+long accumulatedPoints = 3_234_845_223L;
+
+// Here, without L, this literal is treated as an Integer
+long accumulatedPoints = 3_234_845_223;
+```
+
 - Obs: The first bit (MSB - Most Significative Bit)
 - Obs: The first bit indicate the signal of the number
 
 ```java
 double a = 3 	// Integer
-doube b = 3.1	// Float
+double b = 3.1	// Float
 ```
 
 - A Float value is truncated to an integer when assigned to a Integer variable
 
 - A Integer value is turned into an Float when assigned to a Float variable
+
+- Any number with floating point is treated as a double
 
 ## Others
 
