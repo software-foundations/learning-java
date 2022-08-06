@@ -146,3 +146,42 @@ jshell
 var a = 10;
 ```
 - Obs: a float variable can receive a int, but the contrary is false
+
+# Primitive Types
+
+- Complex types are composed by primitive types
+
+- Primitve types
+
+## Numerical
+
+```
+- Byte	(8 Signed Bits [-128, 127])
+- Short (2 Signed Bytes)
+- Int 	(4 Signed Bytes - The preferable type in almost case)
+- Long 	(8 Signed Bytes)
+```
+
+```
+Float	(4 Unsigned Bytes)
+Double	(8 Unsigned Bytes)
+```
+
+- Obs: The first bit (MSB - Most Significative Bit)
+- Obs: The first bit indicate the signal of the number
+
+```java
+double a = 3 	// Integer
+doube b = 3.1	// Float
+```
+
+- A Float value is truncated to an integer when assigned to a Integer variable
+
+- A Integer value is turned into an Float when assigned to a Float variable
+
+## Others
+
+```
+Char 	(One character wrapped by single quotes)
+Boolean	(true or false)
+```
