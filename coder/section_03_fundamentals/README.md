@@ -218,3 +218,36 @@ Boolean	(true or false)
 - The <code>java.lang</code> package is available by default in all classes
 
 - Then, isn't necessary <code>import java.lang</code> package to use it
+
+# String Type
+
+- A non primitive type which is composed by character primitive type
+
+- Is an immutable object
+
+- String methods
+
+```java
+.charAt(<int>)
+.startsWith(<String>)
+.endsWith(<String>)
+.toLowerCase()
+.toUpperCase()
+.length()
+.equals(<String>)
+.equalsIgnoreCase(<String>)
+.contains()
+.format(<String interpolation>, <variables>)
+.indexOf(<String>)
+.substring(<int>)
+.substring(<int>, <int>)
+```
+
+- String interpolation
+
+```java
+%s		// String
+%d		// integer
+%f 		// Float
+%.2f 	// Float with 2 decimal floating points
+```
