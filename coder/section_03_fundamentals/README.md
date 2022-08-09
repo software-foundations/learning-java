@@ -251,3 +251,15 @@ Boolean	(true or false)
 %f 		// Float
 %.2f 	// Float with 2 decimal floating points
 ```
+
+# Console
+
+- <code lang="java">System.out.println()</code> breaks line
+
+- <code lang="java">System.out.print()</code> remains in the same line
+
+- <code lang="java">System.out.printf()</code> allows parameters
+
+- <code>"%n"</code> and <code>"\n"</code> are the same: line break
+
+- <code lang="java">import java.util.Scanner</code> gets input from console
