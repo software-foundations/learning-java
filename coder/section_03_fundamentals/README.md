@@ -263,3 +263,13 @@ Boolean	(true or false)
 - <code>"%n"</code> and <code>"\n"</code> are the same: line break
 
 - <code lang="java">import java.util.Scanner</code> gets input from console
+
+# scanner.nextInt vs scanner.nextDouble
+
+- <code>scanner.nextInt</code>
+
+```
+- treat the \n as a number
+```
+
+- <code>scanner.nextDouble</code> works the same

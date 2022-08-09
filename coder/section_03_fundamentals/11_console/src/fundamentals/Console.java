@@ -1,4 +1,4 @@
-// package fundamentals;
+package fundamentals;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class Console {
 	public static void main (String[] args) {
 
 		System.out.print("Good");
-
+		
 		System.out.print(" morning!\n\n");
 
 		System.out.println("Good");
