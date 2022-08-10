@@ -294,3 +294,9 @@ Boolean	(true or false)
 - Wrapper can add behaviors in primitive types or anything else
 
 - Wrapper is the object version of a primitive type
+
+# Wrappers
+
+- It is a class to wrap a primitive type
+
+- There is a wrapper for each primitive type

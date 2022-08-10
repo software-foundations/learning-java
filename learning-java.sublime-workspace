@@ -615,7 +615,7 @@
 				]
 			],
 			[
-				"Terminal",
+				"Console",
 				"Java - file"
 			]
 		],
@@ -792,7 +792,7 @@
 			]
 		]
 	],
-	"build_varint": "Java - file",
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
@@ -800,12 +800,16 @@
 		"selected_items":
 		[
 			[
-				"can",
-				"Build: Cancel"
-			],
-			[
 				"re",
 				"Rename File"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"can",
+				"Build: Cancel"
 			],
 			[
 				"here",
@@ -990,10 +994,6 @@
 			[
 				"DUPLI",
 				"File: Duplicate"
-			],
-			[
-				"ren",
-				"Rename File"
 			],
 			[
 				"color scheme",
@@ -1341,11 +1341,16 @@
 	},
 	"expanded_folders":
 	[
+		"/home/bruno/Documents/dev/learning-java",
+		"/home/bruno/Documents/dev/learning-java/coder",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals"
 	],
 	"file_history":
 	[
-		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/11_console/console.sh",
 		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/README.md",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/13_object_vs_primitive/src/fundamentals/ObjectVsPrimitive.java",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/13_object_vs_primitive/object_vs_primitive.sh",
+		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/11_console/console.sh",
 		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/12_nextInt/src/fundamentals/NextInt.java",
 		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/12_nextInt/nextInt.sh",
 		"/home/bruno/Documents/dev/learning-java/coder/section_03_fundamentals/12_nextInt/src/fundamentals/nextInt.java",
@@ -1469,13 +1474,11 @@
 		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/16_auto_called_functions/autoCalledFunctions.js",
 		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_02.js",
 		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_03.js",
-		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_01.js",
-		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/14_factory_functions/factoryFunctions_02.js",
-		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/14_factory_functions/factoryFunctions_01.js"
+		"/home/bruno/Documents/dev/learning-javascript/coder/section_06_function/15_compare_class_with_factory_functions/compareClassWithFactoryFunctions_01.js"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 77.0
 	},
 	"find_in_files":
 	{
