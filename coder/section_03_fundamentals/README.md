@@ -305,6 +305,21 @@ Boolean	(true or false)
 
 - Some conversions between some types are not fundamentals
 
+- Java analyse types while converting
+
+- Java does not analyse values
+
+## Preferable types
+
+```
+int
+double
+```
+
+- These types are the default types in literals
+
+- Use them avoid unecessary cast
+
 ## Integers Conversions
 ```
 byte
@@ -315,12 +330,12 @@ byte
 
 - In this flow of conversion (->)
 
-1. The conversion is implicity and
+1. The conversion is implicit and
 2. We don't lose information
 
 - In this flow of conversion (<-)
 
-1. The conversion is explicity
+1. The conversion is explicit
 2. We can lose information
 
 ## Integer to Float
@@ -333,10 +348,10 @@ Flows of conversion
 
 - (->)
 
-1. The conversion is implicity
+1. The conversion is implicit
 2. We don't lose information
 
 - (<-)
 
-1. The conversion is explicity
+1. The conversion is explicit
 2. We can lose information
