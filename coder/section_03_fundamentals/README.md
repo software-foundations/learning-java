@@ -300,3 +300,43 @@ Boolean	(true or false)
 - It is a class to wrap a primitive type
 
 - There is a wrapper for each primitive type
+
+# Primitive Type Conversion
+
+- Some conversions between some types are not fundamentals
+
+## Integers Conversions
+```
+byte
+	short
+		int
+			long
+```
+
+- In this flow of conversion (->)
+
+1. The conversion is implicity and
+2. We don't lose information
+
+- In this flow of conversion (<-)
+
+1. The conversion is explicity
+2. We can lose information
+
+## Integer to Float
+```
+int
+	float
+```
+
+Flows of conversion
+
+- (->)
+
+1. The conversion is implicity
+2. We don't lose information
+
+- (<-)
+
+1. The conversion is explicity
+2. We can lose information
