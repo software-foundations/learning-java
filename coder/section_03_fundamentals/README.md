@@ -382,3 +382,6 @@ System.out.println(("" + num2).toString().length());
 
 - <code>java.math.BigDecimal</code> to more precise floating points
 
+# Conversion Challenge
+
+- Replace the ',' with ',' to allow conversion between String to Double
