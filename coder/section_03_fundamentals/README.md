@@ -373,3 +373,12 @@ System.out.println(("" + num1).toString().length());
 
 System.out.println(("" + num2).toString().length());
 ```
+
+# String to Number Conversion
+
+- Every number can be converted to a string
+
+- Not all strings can be converted to a number
+
+- <code>java.math.BigDecimal</code> to more precise floating points
+
