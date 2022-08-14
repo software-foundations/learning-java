@@ -385,3 +385,47 @@ System.out.println(("" + num2).toString().length());
 # Conversion Challenge
 
 - Replace the ',' with ',' to allow conversion between String to Double
+
+# Operators
+
+- Unary, binary, and ternary
+
+```txt
+It definition matches with the number of operands
+
+Unary:
+	++
+	--
+
+Binary:
+	+
+	-
+	*
+	/
+
+Ternary:
+	<operand> ? <operand> : <operand>
+```
+
+- Arithmetic, Relational, logical, and assignment
+```
+```
+
+- Obs: there is precedence table
+
+- This table define the priority execution order of the operators
+
+- Forms: prefix, postfix, and infix
+
+```txt
+
+prefix: <operator> <operand>
+	++a
+
+postfix: <operand> <operator>
+	a++
+
+infix: <operand> <operator> <operand>
+	1 + 2
+
+```
