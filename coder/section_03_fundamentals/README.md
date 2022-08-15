@@ -417,7 +417,12 @@ Arithmetic
 	%
 
 Logical
-	
+	>
+	<
+	&&
+	||
+	^ (XOR)
+	!
 ```
 
 - Obs: there is precedence table
@@ -441,7 +446,3 @@ infix: <operand> <operator> <operand>
 # Arithmetic Operators Challenge
 
 - <code lang="java">Math.pow(<number>, <potency>)</code>
-
-# Logical Operators
-
-- True table
