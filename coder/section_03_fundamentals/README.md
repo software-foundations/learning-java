@@ -409,6 +409,12 @@ Ternary:
 
 - Arithmetic, Relational, logical, and assignment
 ```
+Arithmetic
+	+
+	-
+	*
+	/
+	%
 ```
 
 - Obs: there is precedence table
@@ -427,5 +433,4 @@ postfix: <operand> <operator>
 
 infix: <operand> <operator> <operand>
 	1 + 2
-
 ```
