@@ -415,6 +415,9 @@ Arithmetic
 	*
 	/
 	%
+
+Logical
+	
 ```
 
 - Obs: there is precedence table
@@ -434,3 +437,11 @@ postfix: <operand> <operator>
 infix: <operand> <operator> <operand>
 	1 + 2
 ```
+
+# Arithmetic Operators Challenge
+
+- <code lang="java">Math.pow(<number>, <potency>)</code>
+
+# Logical Operators
+
+- True table
