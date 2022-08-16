@@ -446,3 +446,6 @@ infix: <operand> <operator> <operand>
 # Arithmetic Operators Challenge
 
 - <code lang="java">Math.pow(<number>, <potency>)</code>
+
+# Logical Operators Challenge
+
