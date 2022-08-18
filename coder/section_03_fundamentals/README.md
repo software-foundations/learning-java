@@ -423,6 +423,18 @@ Logical
 	||
 	^ (XOR)
 	!
+
+Assignment
+	=
+	+=
+	-=
+	*=
+	/=
+	%=
+	<var> ++
+	<var> --
+	++ <var>
+	-- <var>
 ```
 
 - Obs: there is precedence table
