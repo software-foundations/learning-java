@@ -449,3 +449,6 @@ infix: <operand> <operator> <operand>
 
 # Logical Operators Challenge
 
+# Relational Operators
+
+- <code>'\u<some_hex_number_in_unicode_table>'</code>
