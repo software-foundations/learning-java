@@ -464,3 +464,10 @@ infix: <operand> <operator> <operand>
 # Relational Operators
 
 - <code>'\u<some_hex_number_in_unicode_table>'</code>
+
+# String Equality
+
+- <code><string_object>.toString(<another_string_object>)</code>
+
+- Do not use <code>==</code> to compare strings
+
