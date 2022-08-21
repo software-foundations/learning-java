@@ -471,3 +471,37 @@ infix: <operand> <operator> <operand>
 
 - Do not use <code>==</code> to compare strings
 
+# JRE (User) vs JDK(Developer)
+
+- JRE means Java Runtime Environment.
+
+- The JRE is the JVM
+
+- JDK means Java Development Kit
+
+- JVM means Java Virtual Machine
+
+- The JVM varies from system to system
+
+- Than, each OS has its own JVM
+
+- Remember "Write one time, run anywhere"
+
+- Flow
+
+```
+SomeClass.java
+
+	(compilation)
+	-> .class file (bytecode)
+
+		(interpretation)
+		-> jvm
+
+			(execution)
+			-> Operationa System
+```
+
+- Obs: We can have just JRE + Eclipse or any IDE to compile and run java code
+
+- But, it is preferable to install a jdk
