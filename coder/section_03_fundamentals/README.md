@@ -505,3 +505,26 @@ SomeClass.java
 - Obs: We can have just JRE + Eclipse or any IDE to compile and run java code
 
 - But, it is preferable to install a jdk
+
+# java vs javac
+
+- javac is the compiler
+
+- java is the JVM
+
+- The public class must have the same name of the .java file
+
+- First, we compile a file by using javac
+
+- Then, we execute the file using the java
+
+- Flow
+
+```bash
+javac MyClass.java
+java MyClass
+```
+
+- We can pass parameters to be read by <code>args</code> in <code lang="java">public static void main(String[] args)</code>
+
+- It involves the array concepet, that will be discussed later
