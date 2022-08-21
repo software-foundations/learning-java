@@ -528,3 +528,12 @@ java MyClass
 - We can pass parameters to be read by <code>args</code> in <code lang="java">public static void main(String[] args)</code>
 
 - It involves the array concepet, that will be discussed later
+
+# Chapter Challenge: Calculator
+
+## Requirements
+
+1. Get the first number from the user
+2. Get the second number from the user
+3. Get the operator (+ - * /) from the user
+4. Execute <code>n1 operator n2</code>
