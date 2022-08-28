@@ -1,2 +1,7 @@
 *.sublime-workspace
 *.class
+
+# Intelij idea Ultimate
+.idea/
+*.iml
+Zsh
